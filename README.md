@@ -2,12 +2,6 @@
 
 This repository contains implementations of the algorithms presented in the book "Algorithms" by Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, and Clifford Stein. The purpose of this repository is to store and organize the solutions to the problems and algorithms discussed in the book, with the goal of facilitating the learning and application of these concepts.
 
-## Repository Structure
-
-- The repository is organized by chapters of the book, with the corresponding algorithms for each section.
-- Each algorithm is in a separate file, accompanied by a brief explanation of its functionality.
-- Whenever necessary, there are comments in the code to help with understanding the algorithm.
-
 ## How to Use
 
 1. Clone the repository to your local machine:
