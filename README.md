@@ -12,7 +12,7 @@ This repository contains implementations of the algorithms presented in the book
 
 1. Clone the repository to your local machine:
 
-`git clone https://github.com/your-username/algorithms.git`
+`git clone https://github.com/bispodevacct/algorithms.git`
 
 2. Navigate to the repository directory:
 
