@@ -7,6 +7,6 @@ def insertionSort(array):
         while j >= 0 and array[j] > temporaryValue:
             array[j + 1] = array[j]
 
-            j = j - 1
+            j -= 1
         
         array[j + 1] = temporaryValue
